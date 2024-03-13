@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES_Algoritmas", "DES_Algoritmas\DES_Algoritmas.csproj", "{503CA42E-9EA4-4346-9C75-7750670B68AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503CA42E-9EA4-4346-9C75-7750670B68AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503CA42E-9EA4-4346-9C75-7750670B68AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503CA42E-9EA4-4346-9C75-7750670B68AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503CA42E-9EA4-4346-9C75-7750670B68AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A76F72-19C0-47D6-8A19-6F8CE74FDF2B}
+	EndGlobalSection
+EndGlobal

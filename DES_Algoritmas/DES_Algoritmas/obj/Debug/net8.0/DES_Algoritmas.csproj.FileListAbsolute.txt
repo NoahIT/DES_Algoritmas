@@ -1,0 +1,28 @@
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.exe
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.deps.json
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.runtimeconfig.json
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.pdb
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.AssemblyInfoInputs.cache
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.AssemblyInfo.cs
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\refint\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.pdb
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.genruntimeconfig.cache
+C:\Users\rasci\Desktop\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\ref\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.AssemblyInfoInputs.cache
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.AssemblyInfo.cs
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\refint\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.pdb
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.exe
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.deps.json
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.runtimeconfig.json
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.dll
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\bin\Debug\net8.0\DES_Algoritmas.pdb
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\DES_Algoritmas.genruntimeconfig.cache
+C:\Users\rasci\Desktop\New folder\DES_Algoritmas\DES_Algoritmas\obj\Debug\net8.0\ref\DES_Algoritmas.dll
